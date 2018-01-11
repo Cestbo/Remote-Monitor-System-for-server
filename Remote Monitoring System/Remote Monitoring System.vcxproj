@@ -195,6 +195,7 @@
     <ClInclude Include="User.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="function.cpp" />
     <ClCompile Include="MainView.cpp" />
     <ClCompile Include="Registe.cpp" />
     <ClCompile Include="Remote Monitoring System.cpp" />
