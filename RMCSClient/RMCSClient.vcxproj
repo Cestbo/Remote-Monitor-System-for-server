@@ -196,8 +196,16 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD:RMCSClient/RMCSClient.vcxproj
     <ClCompile Include="RMCSClient.cpp" />
     <ClCompile Include="RMCSClientDlg.cpp" />
+=======
+    <ClCompile Include="function.cpp" />
+    <ClCompile Include="MainView.cpp" />
+    <ClCompile Include="Registe.cpp" />
+    <ClCompile Include="Remote Monitoring System.cpp" />
+    <ClCompile Include="Remote Monitoring SystemDlg.cpp" />
+>>>>>>> f4150acb4cfdc2dc1d33d260c354dd53ab369e5f:Remote Monitoring System/Remote Monitoring System.vcxproj
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>

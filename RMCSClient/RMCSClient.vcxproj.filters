@@ -44,6 +44,21 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+<<<<<<< HEAD:RMCSClient/RMCSClient.vcxproj.filters
+=======
+    <ClCompile Include="Registe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="User.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="function.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+>>>>>>> f4150acb4cfdc2dc1d33d260c354dd53ab369e5f:Remote Monitoring System/Remote Monitoring System.vcxproj.filters
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="RMCSClient.rc">
